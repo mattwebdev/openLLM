@@ -112,6 +112,12 @@ This project is licensed under the GNU General Public License v3 (GPLv3) - see t
 - **Easy to Use**: Clean API and comprehensive documentation
 - **Flexible**: Adaptable to various use cases
 
+## 📚 Documentation
+
+- [Contributing Guide](CONTRIBUTING.md) - How to contribute to the project
+- [Training Data](docs/training.md) - Our training data sources and policies
+- [Development Roadmap](#-development-roadmap) - Project development phases
+
 ---
 
 <div align="center">
